@@ -1,11 +1,12 @@
 """
 SMAI Spring 2026 — Assignment 1
 Question 2: Data Normalisation and KNN Classification
+[CORRECTED & ENHANCED VERSION]
 ------------------------------------------------------
 HOW TO RUN:
   1. Set ROLL_NUMBER below to your university roll number.
-  2. Set API_URL to the actual endpoint given in your course portal.
-  3. Run:  python Q2_normalisation_knn.py
+  2. Set API_URL to the actual endpoint (or leave it to use fallback synthetic data).
+  3. Run:  python Q2_normalisation_knn_FIXED.py
   Requirements: numpy, pandas, matplotlib, seaborn, requests, scipy
   Install:      pip install numpy pandas matplotlib seaborn requests scipy
 """
@@ -18,6 +19,7 @@ import requests
 import warnings
 import math
 from collections import Counter
+from scipy.special import erfinv
 
 warnings.filterwarnings("ignore")
 np.random.seed(42)
@@ -26,7 +28,7 @@ np.random.seed(42)
 # ║  CONFIGURE THESE BEFORE RUNNING                                 ║
 # ╚══════════════════════════════════════════════════════════════════╝
 ROLL_NUMBER = 2023112004          # <-- Replace with your actual roll number
-API_URL     = "https://your-api-endpoint.com/get_data"  # <-- Replace with actual API URL
+API_URL     = "http://preon.iiit.ac.in:8026/api/data"  # Base URL (params added dynamically)
 N_SAMPLES   = 1500       # Collect this many samples (>= 1000 required)
 
 SCENARIO_ID  = ROLL_NUMBER % 8
@@ -55,7 +57,8 @@ def fetch_dataset(roll_number: int, n_samples: int, api_url: str) -> pd.DataFram
     print(f"Fetching {n_samples} samples from API …")
     for idx in range(n_samples):
         try:
-            resp = requests.get(api_url, params={"roll_number": roll_number, "index": idx}, timeout=10)
+            # FIX: Use correct parameter names (roll, index) and proper params dict
+            resp = requests.get(api_url, params={"roll": roll_number, "index": idx}, timeout=10)
             data = resp.json()
             if data is None:
                 print(f"  Reached end of dataset at index {idx}.")
@@ -75,8 +78,12 @@ def fetch_dataset(roll_number: int, n_samples: int, api_url: str) -> pd.DataFram
 
 
 # ── Try fetching; fall back to synthetic data if API is not configured ──────
-if "your-api-endpoint" in API_URL:
-    print("⚠  API_URL not set — generating SYNTHETIC data for demonstration.")
+try:
+    # Quick test to see if API is reachable
+    resp = requests.head(API_URL, timeout=5)
+    df_raw = fetch_dataset(ROLL_NUMBER, N_SAMPLES, API_URL)
+except Exception as e:
+    print(f"⚠  API not reachable ({e}) — generating SYNTHETIC data for demonstration.")
     print("   Set ROLL_NUMBER and API_URL at the top of this file for real data.\n")
     rng = np.random.RandomState(ROLL_NUMBER if ROLL_NUMBER else 42)
     if SCENARIO_ID == 0:                         # Skewed
@@ -114,8 +121,6 @@ if "your-api-endpoint" in API_URL:
     labels  = (logits > np.median(logits)).astype(int)
     df_raw  = pd.DataFrame(X_raw, columns=[f"feature_{i}" for i in range(X_raw.shape[1])])
     df_raw["label"] = labels
-else:
-    df_raw = fetch_dataset(ROLL_NUMBER, N_SAMPLES, API_URL)
 
 FEATURE_COLS = [c for c in df_raw.columns if c != "label"]
 X_all = df_raw[FEATURE_COLS].values.astype(float)
@@ -243,7 +248,9 @@ class ReciprocalTransformation(Normaliser):
     def fit(self, X): pass
     def transform(self, X):
         safe = np.where(X == 0, np.finfo(float).eps, X)
-        return 1.0 / safe
+        result = 1.0 / safe
+        # FIX: Clip extreme values to prevent overflow
+        return np.clip(result, -1e10, 1e10)
 
 
 class SquareRootTransformation(Normaliser):
@@ -286,7 +293,9 @@ class HyperbolicTangent(Normaliser):
 class SigmoidLogistic(Normaliser):
     def fit(self, X): pass
     def transform(self, X):
-        return 1.0 / (1.0 + np.exp(-X))
+        # FIX: Clip to prevent overflow in exp()
+        X_clipped = np.clip(X, -500, 500)
+        return 1.0 / (1.0 + np.exp(-X_clipped))
 
 
 # ── D. Vector Normalisation (row-wise) ───────────────────────────
@@ -335,7 +344,6 @@ class RankGauss(Normaliser):
     def fit(self, X):
         self.n_train = X.shape[0]
     def transform(self, X):
-        from scipy.special import erfinv
         n = X.shape[0]
         result = np.zeros_like(X, dtype=float)
         for j in range(X.shape[1]):
@@ -387,7 +395,7 @@ def knn_predict(X_train, y_train, X_test, k):
 
     preds = []
     for row_dists in dists_sq:
-        nn_idx = np.argpartition(row_dists, k)[:k]
+        nn_idx = np.argpartition(row_dists, min(k, len(row_dists)-1))[:k]
         votes  = Counter(y_train[nn_idx])
         preds.append(votes.most_common(1)[0][0])
     return np.array(preds)
@@ -515,8 +523,10 @@ FEAT_IDX = 0   # Feature to inspect for distribution plots
 
 # ── Helper: get transformed feature values ───────────────────────
 def get_transformed_col(method_name, col_idx):
+    if method_name == "Raw Data (baseline)":
+        return X_all[:, col_idx]
     norm = NORMALISERS.get(method_name)
-    if norm is None:   # raw
+    if norm is None:
         return X_all[:, col_idx]
     norm.fit(X_train)
     Xtr_n = norm.transform(X_train)
@@ -547,7 +557,7 @@ for ax, (mname, color) in zip(axes, configs):
     ax.set_ylabel("Count")
 
 plt.tight_layout()
-plt.savefig("Q2_V1_feature_distribution.png", dpi=130)
+plt.savefig("/mnt/user-data/outputs/Q2_V1_feature_distribution.png", dpi=130, bbox_inches='tight')
 plt.show()
 print("Saved: Q2_V1_feature_distribution.png")
 
@@ -573,11 +583,11 @@ ax.set_ylabel("CV Accuracy")
 ax.legend(fontsize=8, loc="lower right")
 ax.grid(alpha=0.3)
 plt.tight_layout()
-plt.savefig("Q2_V2_accuracy_vs_k.png", dpi=130)
+plt.savefig("/mnt/user-data/outputs/Q2_V2_accuracy_vs_k.png", dpi=130, bbox_inches='tight')
 plt.show()
 print("Saved: Q2_V2_accuracy_vs_k.png")
 
 # ── Save results table to CSV ─────────────────────────────────────
-df_results.to_csv("Q2_results_table.csv", index=False)
+df_results.to_csv("/mnt/user-data/outputs/Q2_results_table.csv", index=False)
 print("Saved: Q2_results_table.csv")
-print("\nQ2 Complete ✓")
+print("\n✓ Q2 Complete!")
