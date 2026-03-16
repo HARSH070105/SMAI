@@ -1,19 +1,11 @@
-# q3_regression_analysis.py
-# Complete Q3 code with analysis-friendly plots and saved figures
-# Requirements: numpy, matplotlib
-# Usage: python q3_regression_analysis.py
-
 import os
 import numpy as np
 import matplotlib.pyplot as plt
 
-# --------------------------
-# Config / reproducibility
-# --------------------------
 SEED = 42
 np.random.seed(SEED)
 
-FIG_DIR = "figures"
+FIG_DIR = "Q3_Ouput"
 os.makedirs(FIG_DIR, exist_ok=True)
 
 # Make plots larger and legible for reports
@@ -26,9 +18,6 @@ plt.rcParams.update({
     "ytick.labelsize": 10,
 })
 
-# --------------------------
-# Utilities
-# --------------------------
 def save_fig(name):
     fname = os.path.join(FIG_DIR, name)
     plt.tight_layout()
@@ -43,9 +32,6 @@ def add_bias(X):
         X = X.reshape(-1, 1)
     return np.c_[np.ones(X.shape[0]), X]
 
-# --------------------------
-# Data generation (Part A)
-# --------------------------
 def generate_clean_dataset(N=10000, a=3.5, b=2.0, sigma=2.0):
     x = np.random.uniform(-10, 10, N)
     eps = np.random.normal(0, sigma, N)
@@ -67,9 +53,6 @@ def generate_outlier_dataset(N=10000, outlier_frac=0.1, outlier_shift=50.0):
     y[idx] += np.random.normal(outlier_shift, 10, len(idx))  # structured outliers
     return X, y, x, idx
 
-# --------------------------
-# Regression implementations (Part B)
-# --------------------------
 def ols_closed(X, y):
     return np.linalg.inv(X.T @ X) @ X.T @ y
 
@@ -122,9 +105,6 @@ def weighted_ls(X, y, gamma):
     G = np.diag(gamma)
     return np.linalg.inv(X.T @ G @ X) @ X.T @ G @ y
 
-# --------------------------
-# IRLS (Part F)
-# --------------------------
 def irls_iter(X, y, max_iter=50, tol=1e-6):
     N = len(y)
     gamma = np.ones(N)
@@ -142,9 +122,6 @@ def irls_iter(X, y, max_iter=50, tol=1e-6):
         gamma = gamma_new
     return np.array(history_w), np.array(history_gamma)
 
-# --------------------------
-# Plot helpers (analysis friendly)
-# --------------------------
 def plot_gd_analysis():
     X, y, _ = generate_clean_dataset()
     XT_X = X.T @ X
@@ -364,9 +341,6 @@ def plot_irls_demo():
     save_fig("irls_mean_gamma_vs_iter.png")
     plt.show()
 
-# --------------------------
-# Main: run experiments & save figures
-# --------------------------
 def main():
     print("\nRunning GD analysis and saving figures...")
     plot_gd_analysis()
