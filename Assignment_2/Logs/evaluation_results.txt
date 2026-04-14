@@ -1,0 +1,1380 @@
+=== INDIVIDUAL IMAGE PREDICTIONS ===
+
+50_5_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_50
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_2_rot180.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_2_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_4_bright.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+100_2_bright.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_3_contrast.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_2_rot270.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_3_combo.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+10_3_rot270.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_10
+
+50_4_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_1_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_7_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_3_contrast.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_5_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+200_1_rot270.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+500_3_rot180.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_7_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_3_rot270.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_7_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_3_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_5_contrast.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_5_blur.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_2_orig.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_5_rot270.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_1_blur.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_4_rot90.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_4_combo.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+500_2_rot270.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_3_rot270.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_1_rot90.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_1_contrast.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_2_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+10_1_rot180.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+50_6_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_5_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+500_2_blur.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_5_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_50
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_3_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_1_rot180.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_2_orig.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+200_1_blur.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_200
+
+20_1_blur.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+10_2_combo.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_5_contrast.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_1_bright.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_1_orig.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+10_2_bright.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_10
+
+10_2_rot180.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_3_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_6_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_6_bright.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_3_contrast.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_1_rot180.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_2000
+  q2_mobile_aug_cnn.pth: Notes_100
+
+50_3_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+500_3_bright.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_4_blur.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_1_combo.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_2000
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_2_contrast.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_10
+
+10_1_combo.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+200_2_rot90.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_5_rot90.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_3_blur.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_6_bright.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+20_3_orig.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_5_rot180.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_500
+
+200_2_bright.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+500_3_combo.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_2_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_7_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_1_orig.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_3_combo.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_10
+
+100_4_contrast.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_2_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_1_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_6_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_4_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_3_orig.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_2_bright.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_5_bright.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+10_1_orig.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_5_rot180.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_2000
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_2000
+
+20_6_contrast.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+20_1_combo.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_2_contrast.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+500_3_orig.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_4_contrast.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_2_rot90.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_2_combo.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_3_blur.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_6_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+50_4_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_2_rot270.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_500
+
+500_3_rot90.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_2_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_6_rot90.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_1_blur.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_3_combo.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_2_combo.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_3_contrast.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_10
+
+50_4_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_5_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_10
+
+100_6_combo.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_2_blur.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+200_1_contrast.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_200
+
+200_2_rot270.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_200
+
+20_3_rot90.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_6_rot180.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_1_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+500_2_contrast.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_3_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_2_combo.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_7_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_7_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_6_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_5_combo.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_4_rot90.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_6_orig.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_1_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_1_rot90.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_2_contrast.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_3_bright.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+50_6_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_5_rot90.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+200_2_blur.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+500_1_bright.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_4_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_4_combo.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_5_bright.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+10_3_bright.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_200
+
+50_3_contrast.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+10_3_rot90.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_10
+
+20_4_rot270.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_1_rot270.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_6_rot180.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+100_3_rot90.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_6_rot270.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+50_5_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_3_rot180.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+500_1_rot90.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_5_orig.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_6_rot270.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_6_combo.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+50_1_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_5_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_50
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_1_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+200_2_orig.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+50_4_rot180.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_2_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+10_3_blur.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_10
+
+100_2_rot90.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_4_rot180.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_5_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_50
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_7_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_6_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_6_rot90.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+20_5_blur.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+200_2_rot180.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_200
+
+500_2_bright.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_5_orig.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+10_1_bright.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_1_rot90.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_4_combo.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+500_1_contrast.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_6_blur.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+100_6_blur.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_3_bright.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_1_contrast.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_1_contrast.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+50_1_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+200_1_rot180.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+500_2_rot90.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_3_rot180.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_4_rot180.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+50_3_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+10_2_orig.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_10
+
+100_3_rot270.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_4_bright.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_2_rot180.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_5_rot270.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+10_1_rot270.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_3_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_2_rot270.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_2_rot90.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_4_orig.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_50
+
+10_2_blur.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_10
+
+500_1_combo.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+20_5_combo.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_2000
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_2000
+
+200_2_contrast.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+20_4_orig.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_2_rot180.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+500_1_blur.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_4_blur.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+200_1_bright.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+20_1_orig.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_6_contrast.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_50
+
+200_1_combo.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+20_2_rot270.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_4_rot90.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_100
+
+10_3_rot180.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_10
+
+50_6_orig.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_100
+
+500_1_rot270.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+50_7_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+200_1_orig.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_200
+
+10_3_orig.jpeg (True: Notes_10)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_10
+
+20_2_blur.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_10
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+100_4_rot270.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+20_3_blur.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+200_2_combo.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_10
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_200
+
+50_1_bright.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_50
+  q2_mobile_aug_cnn.pth: Notes_50
+
+50_2_blur.jpeg (True: Notes_50)
+  super_model_cnn.pth: Notes_50
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_10
+  q2_mobile_aug_cnn.pth: Notes_50
+
+100_1_rot270.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+500_1_rot180.jpeg (True: Notes_500)
+  super_model_cnn.pth: Notes_500
+  q2_baseline_cnn.pth: Notes_500
+  q2_mobile_cnn.pth: Notes_500
+  q2_mobile_aug_cnn.pth: Notes_500
+
+100_1_bright.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_2000
+  q2_mobile_aug_cnn.pth: Notes_100
+
+100_2_orig.jpeg (True: Notes_100)
+  super_model_cnn.pth: Notes_100
+  q2_baseline_cnn.pth: Notes_100
+  q2_mobile_cnn.pth: Notes_100
+  q2_mobile_aug_cnn.pth: Notes_100
+
+20_6_orig.jpeg (True: Notes_20)
+  super_model_cnn.pth: Notes_20
+  q2_baseline_cnn.pth: Notes_20
+  q2_mobile_cnn.pth: Notes_20
+  q2_mobile_aug_cnn.pth: Notes_20
+
+200_1_rot90.jpeg (True: Notes_200)
+  super_model_cnn.pth: Notes_200
+  q2_baseline_cnn.pth: Notes_200
+  q2_mobile_cnn.pth: Notes_200
+  q2_mobile_aug_cnn.pth: Notes_200
+
+
+
+========================================
+=== MODEL PERFORMANCE METRICS ===
+========================================
+
+--- super_model_cnn.pth ---
+Accuracy: 0.6481
+
+              precision    recall  f1-score   support
+
+    Notes_10       0.57      0.50      0.53        24
+   Notes_100       0.81      0.52      0.63        48
+    Notes_20       1.00      0.33      0.50        48
+   Notes_200       1.00      0.50      0.67        16
+  Notes_2000       0.00      0.00      0.00         0
+    Notes_50       0.51      0.98      0.67        56
+   Notes_500       0.75      1.00      0.86        24
+
+    accuracy                           0.65       216
+   macro avg       0.66      0.55      0.55       216
+weighted avg       0.75      0.65      0.63       216
+
+----------------------------------------
+
+--- q2_baseline_cnn.pth ---
+Accuracy: 0.4583
+
+              precision    recall  f1-score   support
+
+    Notes_10       0.48      0.54      0.51        24
+   Notes_100       0.39      0.90      0.55        48
+    Notes_20       0.82      0.19      0.31        48
+   Notes_200       1.00      0.50      0.67        16
+  Notes_2000       0.00      0.00      0.00         0
+    Notes_50       1.00      0.07      0.13        56
+   Notes_500       0.40      0.92      0.56        24
+
+    accuracy                           0.46       216
+   macro avg       0.58      0.44      0.39       216
+weighted avg       0.70      0.46      0.39       216
+
+----------------------------------------
+
+--- q2_mobile_cnn.pth ---
+Accuracy: 0.5046
+
+              precision    recall  f1-score   support
+
+    Notes_10       0.42      0.71      0.53        24
+   Notes_100       0.76      0.54      0.63        48
+    Notes_20       1.00      0.17      0.29        48
+   Notes_200       0.36      0.56      0.44        16
+  Notes_2000       0.00      0.00      0.00         0
+    Notes_50       0.77      0.48      0.59        56
+   Notes_500       0.31      0.92      0.46        24
+
+    accuracy                           0.50       216
+   macro avg       0.52      0.48      0.42       216
+weighted avg       0.70      0.50      0.50       216
+
+----------------------------------------
+
+--- q2_mobile_aug_cnn.pth ---
+Accuracy: 0.5556
+
+              precision    recall  f1-score   support
+
+    Notes_10       0.92      0.46      0.61        24
+   Notes_100       0.56      0.52      0.54        48
+    Notes_20       1.00      0.17      0.29        48
+   Notes_200       0.75      0.94      0.83        16
+  Notes_2000       0.00      0.00      0.00         0
+    Notes_50       0.59      0.66      0.62        56
+   Notes_500       0.36      1.00      0.53        24
+
+    accuracy                           0.56       216
+   macro avg       0.60      0.53      0.49       216
+weighted avg       0.70      0.56      0.53       216
+
+----------------------------------------
+

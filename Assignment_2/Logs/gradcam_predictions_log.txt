@@ -1,0 +1,20 @@
+=== GRAD-CAM IMAGE PREDICTIONS ===
+
+50_4_orig.jpeg (True: Notes_50)
+  super_model_cnn: Notes_50
+  q2_baseline_cnn: Notes_100
+  q2_mobile_cnn: Notes_500
+  q2_mobile_aug_cnn: Notes_50
+
+500_3_rot180.jpeg (True: Notes_500)
+  super_model_cnn: Notes_500
+  q2_baseline_cnn: Notes_500
+  q2_mobile_cnn: Notes_500
+  q2_mobile_aug_cnn: Notes_500
+
+100_3_orig.jpeg (True: Notes_100)
+  super_model_cnn: Notes_100
+  q2_baseline_cnn: Notes_100
+  q2_mobile_cnn: Notes_2000
+  q2_mobile_aug_cnn: Notes_100
+

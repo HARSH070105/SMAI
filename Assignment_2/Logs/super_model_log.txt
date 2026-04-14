@@ -1,0 +1,110 @@
+[*] Using device: cuda
+[*] Engaging Unconstrained Super Model Training...
+
+[*] Starting Training (Max Epochs: 100)
+Epoch [001/100] | LR: 0.002000 | Train Loss: 1.8443 | Train Acc: 27.68% | Test Acc: 36.27%
+  -> New best model saved!
+Epoch [002/100] | LR: 0.002000 | Train Loss: 1.6495 | Train Acc: 33.72% | Test Acc: 37.39%
+  -> New best model saved!
+Epoch [003/100] | LR: 0.002000 | Train Loss: 1.5557 | Train Acc: 37.88% | Test Acc: 45.07%
+  -> New best model saved!
+Epoch [004/100] | LR: 0.002000 | Train Loss: 1.5399 | Train Acc: 38.93% | Test Acc: 47.52%
+  -> New best model saved!
+Epoch [005/100] | LR: 0.002000 | Train Loss: 1.4748 | Train Acc: 42.53% | Test Acc: 47.45%
+Epoch [006/100] | LR: 0.002000 | Train Loss: 1.4574 | Train Acc: 42.63% | Test Acc: 55.07%
+  -> New best model saved!
+Epoch [007/100] | LR: 0.002000 | Train Loss: 1.3655 | Train Acc: 46.86% | Test Acc: 54.23%
+Epoch [008/100] | LR: 0.002000 | Train Loss: 1.3591 | Train Acc: 46.95% | Test Acc: 49.62%
+Epoch [009/100] | LR: 0.002000 | Train Loss: 1.2939 | Train Acc: 50.97% | Test Acc: 56.46%
+  -> New best model saved!
+Epoch [010/100] | LR: 0.002000 | Train Loss: 1.2437 | Train Acc: 52.42% | Test Acc: 61.57%
+  -> New best model saved!
+Epoch [011/100] | LR: 0.002000 | Train Loss: 1.1786 | Train Acc: 55.51% | Test Acc: 54.72%
+Epoch [012/100] | LR: 0.002000 | Train Loss: 1.1233 | Train Acc: 57.73% | Test Acc: 65.13%
+  -> New best model saved!
+Epoch [013/100] | LR: 0.002000 | Train Loss: 1.0680 | Train Acc: 59.92% | Test Acc: 73.45%
+  -> New best model saved!
+Epoch [014/100] | LR: 0.002000 | Train Loss: 1.0305 | Train Acc: 61.72% | Test Acc: 57.44%
+Epoch [015/100] | LR: 0.002000 | Train Loss: 0.9893 | Train Acc: 62.73% | Test Acc: 78.90%
+  -> New best model saved!
+Epoch [016/100] | LR: 0.002000 | Train Loss: 0.9461 | Train Acc: 64.27% | Test Acc: 73.17%
+Epoch [017/100] | LR: 0.002000 | Train Loss: 0.9011 | Train Acc: 66.77% | Test Acc: 78.34%
+Epoch [018/100] | LR: 0.002000 | Train Loss: 0.8523 | Train Acc: 69.37% | Test Acc: 75.75%
+Epoch [019/100] | LR: 0.002000 | Train Loss: 0.8346 | Train Acc: 69.58% | Test Acc: 85.46%
+  -> New best model saved!
+Epoch [020/100] | LR: 0.002000 | Train Loss: 0.8098 | Train Acc: 70.77% | Test Acc: 84.28%
+Epoch [021/100] | LR: 0.002000 | Train Loss: 0.7995 | Train Acc: 69.95% | Test Acc: 81.69%
+Epoch [022/100] | LR: 0.002000 | Train Loss: 0.7470 | Train Acc: 73.11% | Test Acc: 82.53%
+Epoch [023/100] | LR: 0.002000 | Train Loss: 0.7572 | Train Acc: 73.04% | Test Acc: 75.89%
+Epoch [024/100] | LR: 0.002000 | Train Loss: 0.7363 | Train Acc: 73.95% | Test Acc: 83.86%
+Epoch 00024: reducing learning rate of group 0 to 1.0000e-03.
+Epoch [025/100] | LR: 0.001000 | Train Loss: 0.6461 | Train Acc: 76.18% | Test Acc: 89.38%
+  -> New best model saved!
+Epoch [026/100] | LR: 0.001000 | Train Loss: 0.6360 | Train Acc: 77.76% | Test Acc: 87.21%
+Epoch [027/100] | LR: 0.001000 | Train Loss: 0.6015 | Train Acc: 78.54% | Test Acc: 89.24%
+Epoch [028/100] | LR: 0.001000 | Train Loss: 0.5710 | Train Acc: 80.22% | Test Acc: 88.68%
+Epoch [029/100] | LR: 0.001000 | Train Loss: 0.6001 | Train Acc: 78.73% | Test Acc: 91.68%
+  -> New best model saved!
+Epoch [030/100] | LR: 0.001000 | Train Loss: 0.5695 | Train Acc: 80.13% | Test Acc: 92.31%
+  -> New best model saved!
+Epoch [031/100] | LR: 0.001000 | Train Loss: 0.5595 | Train Acc: 80.20% | Test Acc: 91.06%
+Epoch [032/100] | LR: 0.001000 | Train Loss: 0.5540 | Train Acc: 80.85% | Test Acc: 90.64%
+Epoch [033/100] | LR: 0.001000 | Train Loss: 0.5277 | Train Acc: 81.18% | Test Acc: 90.36%
+Epoch [034/100] | LR: 0.001000 | Train Loss: 0.5245 | Train Acc: 81.51% | Test Acc: 91.75%
+Epoch [035/100] | LR: 0.001000 | Train Loss: 0.5381 | Train Acc: 81.30% | Test Acc: 91.89%
+Epoch 00035: reducing learning rate of group 0 to 5.0000e-04.
+Epoch [036/100] | LR: 0.000500 | Train Loss: 0.4867 | Train Acc: 83.21% | Test Acc: 91.75%
+Epoch [037/100] | LR: 0.000500 | Train Loss: 0.4679 | Train Acc: 83.82% | Test Acc: 92.17%
+Epoch [038/100] | LR: 0.000500 | Train Loss: 0.4615 | Train Acc: 83.35% | Test Acc: 93.08%
+  -> New best model saved!
+Epoch [039/100] | LR: 0.000500 | Train Loss: 0.4645 | Train Acc: 84.03% | Test Acc: 93.08%
+Epoch [040/100] | LR: 0.000500 | Train Loss: 0.4764 | Train Acc: 83.58% | Test Acc: 94.20%
+  -> New best model saved!
+Epoch [041/100] | LR: 0.000500 | Train Loss: 0.4577 | Train Acc: 83.96% | Test Acc: 94.27%
+  -> New best model saved!
+Epoch [042/100] | LR: 0.000500 | Train Loss: 0.4592 | Train Acc: 84.31% | Test Acc: 93.22%
+Epoch [043/100] | LR: 0.000500 | Train Loss: 0.4424 | Train Acc: 84.38% | Test Acc: 93.78%
+Epoch [044/100] | LR: 0.000500 | Train Loss: 0.4225 | Train Acc: 85.22% | Test Acc: 93.92%
+Epoch [045/100] | LR: 0.000500 | Train Loss: 0.4266 | Train Acc: 85.51% | Test Acc: 93.43%
+Epoch [046/100] | LR: 0.000500 | Train Loss: 0.4377 | Train Acc: 84.80% | Test Acc: 92.17%
+Epoch 00046: reducing learning rate of group 0 to 2.5000e-04.
+Epoch [047/100] | LR: 0.000250 | Train Loss: 0.4214 | Train Acc: 85.86% | Test Acc: 94.62%
+  -> New best model saved!
+Epoch [048/100] | LR: 0.000250 | Train Loss: 0.3974 | Train Acc: 85.81% | Test Acc: 94.62%
+Epoch [049/100] | LR: 0.000250 | Train Loss: 0.4195 | Train Acc: 85.20% | Test Acc: 94.90%
+  -> New best model saved!
+Epoch [050/100] | LR: 0.000250 | Train Loss: 0.4009 | Train Acc: 85.74% | Test Acc: 93.99%
+Epoch [051/100] | LR: 0.000250 | Train Loss: 0.3898 | Train Acc: 86.93% | Test Acc: 95.11%
+  -> New best model saved!
+Epoch [052/100] | LR: 0.000250 | Train Loss: 0.4077 | Train Acc: 85.83% | Test Acc: 95.11%
+Epoch [053/100] | LR: 0.000250 | Train Loss: 0.3784 | Train Acc: 87.00% | Test Acc: 94.90%
+Epoch [054/100] | LR: 0.000250 | Train Loss: 0.3924 | Train Acc: 86.98% | Test Acc: 94.69%
+Epoch [055/100] | LR: 0.000250 | Train Loss: 0.3903 | Train Acc: 86.14% | Test Acc: 93.99%
+Epoch [056/100] | LR: 0.000250 | Train Loss: 0.3660 | Train Acc: 87.65% | Test Acc: 94.55%
+Epoch 00056: reducing learning rate of group 0 to 1.2500e-04.
+Epoch [057/100] | LR: 0.000125 | Train Loss: 0.3808 | Train Acc: 86.81% | Test Acc: 94.90%
+Epoch [058/100] | LR: 0.000125 | Train Loss: 0.3691 | Train Acc: 87.23% | Test Acc: 95.04%
+Epoch [059/100] | LR: 0.000125 | Train Loss: 0.3742 | Train Acc: 87.33% | Test Acc: 95.46%
+  -> New best model saved!
+Epoch [060/100] | LR: 0.000125 | Train Loss: 0.3645 | Train Acc: 87.09% | Test Acc: 95.11%
+Epoch [061/100] | LR: 0.000125 | Train Loss: 0.3560 | Train Acc: 87.72% | Test Acc: 95.25%
+Epoch [062/100] | LR: 0.000125 | Train Loss: 0.3770 | Train Acc: 86.86% | Test Acc: 95.67%
+  -> New best model saved!
+Epoch [063/100] | LR: 0.000125 | Train Loss: 0.3677 | Train Acc: 87.07% | Test Acc: 95.25%
+Epoch [064/100] | LR: 0.000125 | Train Loss: 0.3587 | Train Acc: 88.03% | Test Acc: 94.83%
+Epoch [065/100] | LR: 0.000125 | Train Loss: 0.3607 | Train Acc: 87.59% | Test Acc: 95.53%
+Epoch [066/100] | LR: 0.000125 | Train Loss: 0.3544 | Train Acc: 88.01% | Test Acc: 95.32%
+Epoch [067/100] | LR: 0.000125 | Train Loss: 0.3569 | Train Acc: 87.75% | Test Acc: 95.32%
+Epoch 00067: reducing learning rate of group 0 to 6.2500e-05.
+Epoch [068/100] | LR: 0.000063 | Train Loss: 0.3556 | Train Acc: 87.72% | Test Acc: 95.39%
+Epoch [069/100] | LR: 0.000063 | Train Loss: 0.3557 | Train Acc: 87.73% | Test Acc: 95.53%
+Epoch [070/100] | LR: 0.000063 | Train Loss: 0.3668 | Train Acc: 87.00% | Test Acc: 95.46%
+Epoch [071/100] | LR: 0.000063 | Train Loss: 0.3546 | Train Acc: 88.15% | Test Acc: 95.46%
+Epoch [072/100] | LR: 0.000063 | Train Loss: 0.3507 | Train Acc: 87.91% | Test Acc: 95.32%
+Epoch 00072: reducing learning rate of group 0 to 3.1250e-05.
+Epoch [073/100] | LR: 0.000031 | Train Loss: 0.3371 | Train Acc: 88.57% | Test Acc: 95.46%
+Epoch [074/100] | LR: 0.000031 | Train Loss: 0.3434 | Train Acc: 88.38% | Test Acc: 95.53%
+
+[!] Early Stopping Triggered! Test accuracy hasn't improved for 12 epochs.
+
+[*] Training Complete. Best Test Accuracy: 95.67%
