@@ -1,0 +1,8 @@
+==================================================
+   VERIFICATION REPORT: CUSTOM_ENSEMBLE_LORA + ENSEMBLE
+==================================================
+
+ROC AUC Score:            0.9975
+Equal Error Rate (EER):   2.46%
+TAR @ 1.0% FAR:           94.62%
+TAR @ 5.0% FAR:           98.90%

@@ -1,0 +1,8 @@
+==================================================
+   VERIFICATION REPORT: ENSEMBLE_LORA + ENSEMBLE
+==================================================
+
+ROC AUC Score:            0.9988
+Equal Error Rate (EER):   1.68%
+TAR @ 1.0% FAR:           96.83%
+TAR @ 5.0% FAR:           99.72%

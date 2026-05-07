@@ -1,0 +1,8 @@
+==================================================
+   VERIFICATION REPORT: BASELINE_LORA + ENSEMBLE
+==================================================
+
+ROC AUC Score:            0.9987
+Equal Error Rate (EER):   1.88%
+TAR @ 1.0% FAR:           97.10%
+TAR @ 5.0% FAR:           99.59%

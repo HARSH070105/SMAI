@@ -1,0 +1,8 @@
+==================================================
+   VERIFICATION REPORT: BASE + ENSEMBLE
+==================================================
+
+ROC AUC Score:            0.9803
+Equal Error Rate (EER):   7.50%
+TAR @ 1.0% FAR:           69.91%
+TAR @ 5.0% FAR:           88.82%

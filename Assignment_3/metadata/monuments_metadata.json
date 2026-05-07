@@ -1,0 +1,952 @@
+{
+  "Ajanta Caves": {
+    "display_name": "Ajanta Caves",
+    "location": "Aurangabad, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 20.5519,
+    "lon": 75.7033,
+    "opening_hours": "9:00 AM – 5:30 PM (Closed on Mondays)",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Buddhist Cave Monuments",
+    "history": "The Ajanta Caves are 30 rock-cut Buddhist cave monuments dating from the second century BCE to about 480 CE in Aurangabad district of Maharashtra state in India. Ajanta Caves are a UNESCO World Heritage Site. Universally regarded as masterpieces of Buddhist religious art, the caves include paintings and rock-cut sculptures, described as among the finest surviving examples of ancient Indian art, particularly expressive paintings that present emotions through gesture, pose and form..",
+    "fun_facts": [
+      "Contains 30 rock-cut Buddhist caves dating back to the 2nd century BCE.",
+      "Forgotten for over 1,000 years; rediscovered by British officer John Smith in 1819.",
+      "The paintings inside use natural pigments and have survived for nearly 2,000 years.",
+      "UNESCO World Heritage Site since 1983."
+    ],
+    "google_maps": "https://maps.google.com/?q=20.5519,75.7033",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajanta_Caves"
+  },
+  "Charar-E- Sharif": {
+    "display_name": "Charar-E-Sharif",
+    "location": "Budgam, Jammu & Kashmir",
+    "state": "Jammu & Kashmir",
+    "lat": 33.8662,
+    "lon": 74.7951,
+    "opening_hours": "Open daily (Dawn to Dusk)",
+    "ticket_price": "Free",
+    "category": "Sufi Shrine",
+    "history": "Charari Sharief (also spelled Charar-i-Sharief; Urdu pronunciation: [t͡ʃəɾɑːreː ʃəɾɪf], known as Tsrar-i-Sharif in Kashmiri is a town and a notified area committee in the Budgam district of Jammu and Kashmir, India..",
+    "fun_facts": [
+      "Shrine of Sheikh Noor-ud-din Wali, the patron saint of Kashmir.",
+      "The original shrine was burned down in 1995 during a militant siege and later rebuilt.",
+      "A major pilgrimage site visited by Muslims and Hindus alike.",
+      "The walnut wood architecture is distinctive to Kashmiri shrine design."
+    ],
+    "google_maps": "https://maps.google.com/?q=33.8662,74.7951",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charar-e-Sharif"
+  },
+  "Chhota_Imambara": {
+    "display_name": "Chhota Imambara",
+    "location": "Lucknow, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "lat": 26.864,
+    "lon": 80.9121,
+    "opening_hours": "6:00 AM – 5:00 PM",
+    "ticket_price": "₹25 (Indians) | ₹300 (Foreigners)",
+    "category": "Imambara",
+    "history": "Imambara Hussainabad Mubarak, popularly known as Chhota Imambara, is a monument located in the city of Lucknow, Uttar Pradesh, India. It took 54 years to build. Built as an imambara, or a congregation hall for Shia Muslims, by Muhammad Ali Shah, the Nawab of Awadh in 1838, it was to serve as a mausoleum for himself and his mother, who is buried beside him..",
+    "fun_facts": [
+      "Built by Nawab Muhammad Ali Shah in 1838 as a congregation hall for Shia Muslims.",
+      "Also called the 'Palace of Lights' due to its spectacular chandeliers imported from Belgium and Iran.",
+      "Houses the golden throne of Muhammad Ali Shah and his own tomb.",
+      "The central dome is flanked by two tall minarets and sits atop a raised platform."
+    ],
+    "google_maps": "https://maps.google.com/?q=26.864,80.9121",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chhota_Imambara"
+  },
+  "Ellora Caves": {
+    "display_name": "Ellora Caves",
+    "location": "Aurangabad, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 20.0258,
+    "lon": 75.178,
+    "opening_hours": "6:00 AM – 6:00 PM (Closed on Tuesdays)",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Cave Monuments",
+    "history": "The Ellora Caves are a UNESCO World Heritage Site in Aurangabad, India. It is one of the largest rock-cut cave complexes in the world, with artwork dating from AD 600–1000, including Hindu, Buddhist, and Jain caves. The complex is a leading example of Indian rock-cut architecture, and several are not strictly \"caves\" in that they have no roof. Cave 16 features the largest single monolithic rock excavation in the world, the Kailash temple, a chariot-shaped monument dedicated to the god Shiva.",
+    "fun_facts": [
+      "Contains 100 caves (34 open to public) representing Hindu, Buddhist, and Jain traditions.",
+      "The Kailasa temple (Cave 16) is the world's largest rock-cut structure, carved from a single basalt cliff.",
+      "Took over 150 years to build, starting around the 6th century CE.",
+      "UNESCO World Heritage Site since 1983."
+    ],
+    "google_maps": "https://maps.google.com/?q=20.0258,75.178",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ellora_Caves"
+  },
+  "Fatehpur Sikri": {
+    "display_name": "Fatehpur Sikri",
+    "location": "Agra District, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "lat": 27.0945,
+    "lon": 77.6706,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹55 (Indians) | ₹610 (Foreigners)",
+    "category": "Mughal Palace Complex",
+    "history": "Fatehpur Sikri is a town in the Agra District of Uttar Pradesh, India. Situated 35.7 kilometres (22.2 mi) from the district headquarters of Agra, Fatehpur Sikri itself was founded as the capital of the Mughal Empire in 1571 by Emperor Akbar, serving this role from 1571 to 1585, when Akbar abandoned it due to a campaign in Punjab and was later completely abandoned in 1610..",
+    "fun_facts": [
+      "Built by Emperor Akbar in 1571 and served as the Mughal capital for only 14 years.",
+      "Abandoned likely due to water scarcity; the entire complex was preserved as a ghost city.",
+      "Buland Darwaza, the main gateway, is the tallest gateway in India at 54 metres.",
+      "UNESCO World Heritage Site since 1986."
+    ],
+    "google_maps": "https://maps.google.com/?q=27.0945,77.6706",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fatehpur_Sikri"
+  },
+  "Gateway of India": {
+    "display_name": "Gateway of India",
+    "location": "Colaba, Mumbai, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 18.922,
+    "lon": 72.8347,
+    "opening_hours": "Open 24 hours",
+    "ticket_price": "Free",
+    "category": "Arch Monument",
+    "history": "The Gateway of India is an arch-monument, completed in 1924, on the waterfront of Mumbai, Maharashtra, India. It was erected to commemorate the landing of King George V of the United Kingdom for his coronation as the Emperor of India in December 1911 at Strand Road near Wellington Fountain. He was the first British monarch to visit India..",
+    "fun_facts": [
+      "Built to commemorate the visit of King George V and Queen Mary to India in 1911.",
+      "Constructed in Indo-Saracenic style using yellow basalt and reinforced concrete.",
+      "The last British troops to leave India marched through this gate in February 1948.",
+      "It overlooks the Arabian Sea directly opposite the Taj Mahal Palace Hotel."
+    ],
+    "google_maps": "https://maps.google.com/?q=18.922,72.8347",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gateway_of_India"
+  },
+  "Hawa mahal": {
+    "display_name": "Hawa Mahal",
+    "location": "Jaipur, Rajasthan",
+    "state": "Rajasthan",
+    "lat": 26.9239,
+    "lon": 75.8267,
+    "opening_hours": "9:00 AM – 4:30 PM",
+    "ticket_price": "₹50 (Indians) | ₹200 (Foreigners)",
+    "category": "Palace",
+    "history": "The Hawa Mahal is a palace in the city of Jaipur, Rajasthan, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers..",
+    "fun_facts": [
+      "Built in 1799 by Maharaja Sawai Pratap Singh, shaped like the crown of Lord Krishna.",
+      "Has 953 small latticed windows (jharokhas) that create a natural air-conditioning effect.",
+      "Designed so royal ladies could observe street festivals while remaining unseen (purdah).",
+      "The facade is five storeys tall but only about 1.5 feet deep at its narrowest point."
+    ],
+    "google_maps": "https://maps.google.com/?q=26.9239,75.8267",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hawa_Mahal"
+  },
+  "Humayun_s Tomb": {
+    "display_name": "Humayun's Tomb",
+    "location": "Nizamuddin East, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5933,
+    "lon": 77.2507,
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Mughal Tomb",
+    "history": "Humayun's tomb is the tomb of Mughal Emperor Humayun situated in Delhi, India. The tomb was commissioned by Humayun's first wife and chief consort, Empress Bega Begum under her patronage in 1558, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her. It was the first garden-tomb on the Indian subcontinent, and is located in Nizamuddin East, Delhi, close to the Dina-panah Citadel, also known as Purana Qila, that Humayun found in 1538. It was also the first structure to use red sandstone at such a scale.",
+    "fun_facts": [
+      "The first garden-tomb in the Indian subcontinent, completed in 1565.",
+      "Commissioned by Humayun's widow Hamida Banu Begum and designed by a Persian architect.",
+      "Considered a direct architectural predecessor to the Taj Mahal.",
+      "Over 150 Mughal family members are buried in smaller tombs within the complex."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5933,77.2507",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Humayun's_Tomb"
+  },
+  "India_gate": {
+    "display_name": "India Gate",
+    "location": "Kartavya Path, New Delhi",
+    "state": "Delhi",
+    "lat": 28.6129,
+    "lon": 77.2295,
+    "opening_hours": "Open 24 hours",
+    "ticket_price": "Free",
+    "category": "War Memorial",
+    "history": "India Gate, formerly known as the All India War Memorial, is a prominent war memorial situated on the eastern edge of the ceremonial axis of New Delhi, India, officially known as Kartavya Path. It stands as a memorial commemorating 74,187 soldiers of the Indian Army who died between 1914 and 1921 in the First World War, in France, Flanders, Mesopotamia, Persia, East Africa, Gallipoli and the Third Anglo-Afghan War. Around 13,300 servicemen’s names, including those of some British soldiers and officers, are inscribed on the gate. Designed by Edwin Lutyens, the memorial draws inspiration from ancient Roman triumphal arches such as the Arch of Constantine and is frequently compared to the Arc de Triomphe in Paris..",
+    "fun_facts": [
+      "A memorial to 70,000 soldiers of the British Indian Army who died in World War I.",
+      "Designed by architect Edwin Lutyens, standing 42 metres tall.",
+      "Names of 13,300 soldiers are inscribed on the walls of the arch.",
+      "The Amar Jawan Jyoti (eternal flame) burned at its base from 1972 until 2022."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.6129,77.2295",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/India_Gate"
+  },
+  "Khajuraho": {
+    "display_name": "Khajuraho Temples",
+    "location": "Chhatarpur, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "lat": 24.8518,
+    "lon": 79.9199,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Hindu & Jain Temples",
+    "history": "The Khajuraho Group of Monuments are a group of Hindu and Digambara Jain temples in Chhatarpur district, Madhya Pradesh, India. They are about 46 km (28.6mi) from Chhatarpur city, the district headquarter, 283 km (177mi) from Gwalior, 175 kilometres (109 mi) southeast of Jhansi, 10 kilometres (6.2 mi) from Khajwa and 9 kilometres (5.6 mi) from Rajnagar. The temples are famous for their Nagara-style architectural symbolism and a few erotic sculptures..",
+    "fun_facts": [
+      "The famous erotic carvings represent only ~10% of the sculptures; the rest depict daily life.",
+      "Built between 950 and 1050 CE by the Chandela dynasty.",
+      "Originally there were 85 temples; only 25 survive today.",
+      "UNESCO World Heritage Site since 1986."
+    ],
+    "google_maps": "https://maps.google.com/?q=24.8518,79.9199",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments"
+  },
+  "Sun Temple Konark": {
+    "display_name": "Konark Sun Temple",
+    "location": "Konark, Puri District, Odisha",
+    "state": "Odisha",
+    "lat": 19.8876,
+    "lon": 86.0946,
+    "opening_hours": "6:00 AM – 8:00 PM",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Hindu Temple",
+    "history": "Konark Sun Temple is a 13th-century CE Hindu Sun temple at Konark about 35 kilometres (22 mi) northeast from Puri city on the coastline in Puri district, Odisha, India. The temple is attributed to king Narasingha Deva I of the Eastern Ganga dynasty about 1250 CE. Dedicated to the Hindu Sun-god Surya, it reflects the pinnacle of kalingan architecture and artistic excellence, what remains of the temple complex has the appearance of a 100-foot (30 m) high chariot with immense wheels and horses, all carved from stone. Once over 200 feet (61 m) high, much of the temple is now in ruins, in particular the large shikara tower over the sanctuary; at one time this rose much higher than the mandapa that remains.",
+    "fun_facts": [
+      "Designed as a giant chariot of the sun god Surya, with 24 carved wheels and 7 horses.",
+      "Built in the 13th century CE by King Narasimhadeva I of the Eastern Ganga dynasty.",
+      "Known as the 'Black Pagoda' by European sailors who used it as a navigational landmark.",
+      "UNESCO World Heritage Site since 1984."
+    ],
+    "google_maps": "https://maps.google.com/?q=19.8876,86.0946",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Konark_Sun_Temple"
+  },
+  "alai_darwaza": {
+    "display_name": "Alai Darwaza",
+    "location": "Qutb Complex, Mehrauli, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5245,
+    "lon": 77.1855,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners) — part of Qutb Complex",
+    "category": "Gateway",
+    "history": "The Ala'i Darwaza is the southern gateway of the Quwwat-ul-Islam Mosque in Qutb complex, Mehrauli, Delhi, India. Built by Sultan Alauddin Khalji in 1311 and made of red sandstone, it is a square domed gatehouse with arched entrances and houses a single chamber..",
+    "fun_facts": [
+      "Built in 1311 by Sultan Alauddin Khalji as the southern gateway to the Quwwat-ul-Islam mosque.",
+      "One of the earliest buildings in India to use true arch and true dome construction techniques.",
+      "Decorated with ornate red sandstone inlaid with white marble geometric patterns.",
+      "Considered a masterpiece of early Indo-Islamic architecture."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5245,77.1855",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alai_Darwaza"
+  },
+  "alai_minar": {
+    "display_name": "Alai Minar",
+    "location": "Qutb Complex, Mehrauli, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5244,
+    "lon": 77.1851,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners) — part of Qutb Complex",
+    "category": "Unfinished Minaret",
+    "history": "The Alai Minar is an unfinished minaret in the Qutb complex, Mehrauli, Delhi, begun around 1311 CE by Sultan Alauddin Khalji of the Delhi Sultanate. Khalji planned it to be twice the height of the adjacent Qutb Minar, which would have made it the tallest structure in the medieval world at roughly 144 metres. Construction halted at the completion of the first storey after his death in 1316, leaving the massive rubble-masonry core, standing about 24.5 metres, without the sandstone cladding that was originally planned.",
+    "fun_facts": [
+      "Alauddin Khalji planned this minaret to be twice the height of the Qutb Minar (144 m total).",
+      "Construction halted after his death in 1316, leaving only the 24.5 m first storey.",
+      "Has the widest base of any minaret in India.",
+      "The sandstone facing was never applied to the upper sections — still raw rubble masonry."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5244,77.1851",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Alai_Minar"
+  },
+  "basilica_of_bom_jesus": {
+    "display_name": "Basilica of Bom Jesus",
+    "location": "Old Goa, Goa",
+    "state": "Goa",
+    "lat": 15.5009,
+    "lon": 73.9116,
+    "opening_hours": "9:00 AM – 6:30 PM",
+    "ticket_price": "Free",
+    "category": "Baroque Church",
+    "history": "The Basilica of Bom Jesus is a Catholic basilica in Goa, in the Konkan region of India. The church is a pilgrimage centre and recognised by UNESCO as a World Heritage Site. The basilica is located in Old Goa, the former capital of Portuguese India, and holds the body of St Francis Xavier..",
+    "fun_facts": [
+      "Holds the mortal remains of St. Francis Xavier, co-founder of the Jesuit order.",
+      "Completed in 1605 — one of the oldest churches in India.",
+      "The body of St. Francis Xavier is displayed in a silver casket and shown publicly every 10–12 years.",
+      "UNESCO World Heritage Site since 1986 as part of 'Churches and Convents of Goa.'"
+    ],
+    "google_maps": "https://maps.google.com/?q=15.5009,73.9116",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Basilica_of_Bom_Jesus"
+  },
+  "charminar": {
+    "display_name": "Charminar",
+    "location": "Hyderabad, Telangana",
+    "state": "Telangana",
+    "lat": 17.3616,
+    "lon": 78.4747,
+    "opening_hours": "9:30 AM – 5:30 PM",
+    "ticket_price": "₹25 (Indians) | ₹300 (Foreigners)",
+    "category": "Mosque & Monument",
+    "history": "The Charminar is a monument located in Hyderabad, Telangana, India. Constructed in 1591, the landmark is a symbol of Hyderabad and officially incorporated in the emblem of Telangana. The Charminar's long history includes the existence of a mosque on its top floor for more than 434 years. While both historically and religiously significant, it is also known for its popular and busy local markets surrounding the structure, and has become one of the most frequented tourist attractions in Hyderabad.",
+    "fun_facts": [
+      "Built in 1591 by Muhammad Quli Qutb Shah to commemorate the end of a plague epidemic.",
+      "Its name literally means 'Four Minarets' — each minaret stands 56 metres tall.",
+      "A mosque on the top floor has been in continuous use for over 400 years.",
+      "The surrounding Laad Bazaar is one of India's oldest markets, famous for glass bangles."
+    ],
+    "google_maps": "https://maps.google.com/?q=17.3616,78.4747",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Charminar"
+  },
+  "golden temple": {
+    "display_name": "Golden Temple (Harmandir Sahib)",
+    "location": "Amritsar, Punjab",
+    "state": "Punjab",
+    "lat": 31.62,
+    "lon": 74.8765,
+    "opening_hours": "Open 24 hours, 7 days a week",
+    "ticket_price": "Free",
+    "category": "Sikh Gurdwara",
+    "history": "The Golden Temple is a gurdwara located in Amritsar, Punjab, India. It is the pre-eminent spiritual site of Sikhism and is one of its holiest sites, alongside the Gurdwara Darbar Sahib in Kartarpur and the Gurdwara Janam Asthan in Nankana Sahib, both in Punjab, Pakistan..",
+    "fun_facts": [
+      "Officially called Sri Harmandir Sahib; the upper floors are covered with approximately 400 kg of gold.",
+      "The Langar (free community kitchen) serves 50,000–100,000 free meals every single day.",
+      "Surrounded by Amrit Sarovar (Pool of Nectar), which gives Amritsar its name.",
+      "The temple has four doors on all four sides — symbolising openness to people of all religions."
+    ],
+    "google_maps": "https://maps.google.com/?q=31.62,74.8765",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Golden_Temple"
+  },
+  "iron_pillar": {
+    "display_name": "Iron Pillar of Delhi",
+    "location": "Qutb Complex, Mehrauli, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5245,
+    "lon": 77.1854,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners) — part of Qutb Complex",
+    "category": "Iron Monument",
+    "history": "The iron pillar of Delhi is a metal structure 7.21 metres high with a 41-centimetre (16 in) diameter that was constructed by Chandragupta II, and now stands in the Qutb complex at Mehrauli in Delhi, India..",
+    "fun_facts": [
+      "Cast around 375–415 CE during the Gupta period — over 1,600 years old.",
+      "Made of 98% pure wrought iron and shows no significant rusting, puzzling metallurgists for decades.",
+      "Stands 7.21 metres tall and weighs approximately 6 tonnes.",
+      "Legend: if you can wrap your arms around it with your hands clasped behind your back, your wish comes true."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5245,77.1854",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Iron_Pillar_of_Delhi"
+  },
+  "jamali_kamali_tomb": {
+    "display_name": "Jamali Kamali Mosque & Tomb",
+    "location": "Mehrauli Archaeological Park, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5175,
+    "lon": 77.1765,
+    "opening_hours": "6:00 AM – 6:00 PM (Closed on Fridays)",
+    "ticket_price": "Free",
+    "category": "Lodi-era Tomb",
+    "history": "The Jamali Kamali mosque and tomb is a 16th-century monument in the Mehrauli Archaeological Park, New Delhi, dating to the Lodi and early Mughal era. It enshrines the tomb of Shaikh Fazlullah, the Sufi poet known as Jamali, who served at the courts of Babur and Humayun and is regarded as one of the finest poets of his age. The tomb's interior is decorated with brilliant painted plasterwork in red, blue and green, with verses from Jamali's poetry inscribed on the walls. Buried alongside him is 'Kamali', whose identity — possibly a brother, disciple, or close companion — remains one of Delhi's enduring historical mysteries.",
+    "fun_facts": [
+      "Jamali was a Sufi poet who served in the courts of Babur and Humayun; his verses are inscribed inside.",
+      "The interior ceiling features vivid painted plasterwork in blue, red, and green — unusually well preserved.",
+      "The identity of 'Kamali' buried alongside Jamali remains a mystery to historians.",
+      "Considered one of Delhi's most atmospheric and lesser-known historical sites."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5175,77.1765",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jamali_Kamali_mosque_and_tomb"
+  },
+  "lotus_temple": {
+    "display_name": "Lotus Temple",
+    "location": "Bahapur, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5535,
+    "lon": 77.2588,
+    "opening_hours": "9:00 AM – 5:30 PM (Closed on Mondays)",
+    "ticket_price": "Free",
+    "category": "Bahá'í Temple",
+    "history": "The Lotus Temple is a Baháʼí House of Worship in New Delhi, India. It was completed in December 1986. Notable for its lotus-like shape, it has become a prominent attraction in the city. Like all Bahá’í Houses of Worship, the Lotus Temple is open to all people, regardless of religion or any other qualification.",
+    "fun_facts": [
+      "Designed by Iranian-Canadian architect Fariborz Sahba and completed in 1986.",
+      "Shaped like a blooming lotus with 27 marble-clad petals arranged in groups of three.",
+      "One of the most visited buildings in the world, receiving over 10,000 visitors daily.",
+      "Open to people of all religions — no religious images, idols, or sermons inside."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5535,77.2588",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lotus_Temple"
+  },
+  "mysore_palace": {
+    "display_name": "Mysore Palace",
+    "location": "Mysuru, Karnataka",
+    "state": "Karnataka",
+    "lat": 12.3052,
+    "lon": 76.6552,
+    "opening_hours": "10:00 AM – 5:30 PM",
+    "ticket_price": "₹100 (Indians) | ₹200 (Foreigners)",
+    "category": "Royal Palace",
+    "history": "Mysore Palace, also known as Amba Vilas Palace, is a historical palace and a royal residence. It is located in Mysore, Karnataka, India. It used to be the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore. The palace is in the centre of Mysore, and faces the Chamundi Hills eastward.",
+    "fun_facts": [
+      "Official residence of the Wadiyar dynasty; the current building was completed in 1912 after a fire.",
+      "Built in Indo-Saracenic style, blending Hindu, Muslim, Rajput, and Gothic architectural elements.",
+      "Illuminated by 97,000 light bulbs every Sunday evening and on festival days.",
+      "The third most visited monument in India after the Taj Mahal and the Red Fort."
+    ],
+    "google_maps": "https://maps.google.com/?q=12.3052,76.6552",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mysore_Palace"
+  },
+  "qutub_minar": {
+    "display_name": "Qutub Minar",
+    "location": "Mehrauli, New Delhi",
+    "state": "Delhi",
+    "lat": 28.5245,
+    "lon": 77.1855,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Minaret",
+    "history": "The Qutb Minar, also spelled Qutub Minar and Qutab Minar, is a minaret and victory tower, built during the Delhi sultanate, and comprising the Qutb complex, a UNESCO World Heritage Site in Mehrauli, South Delhi, India. It was mostly built between 1199 and 1220, contains 399 steps, and is one of the most-frequented heritage spots in the city. After defeating Prithviraj Chauhan, the last Hindu ruler of Delhi before the Ghurid conquest of the region, Qutab-ud-din Aibak initiated the construction of the victory tower, but only managed to finish the first level. It was to mark the beginning of Islamic rule in the region.",
+    "fun_facts": [
+      "The world's tallest brick minaret at 72.5 metres, with 379 stairs to the top.",
+      "Construction began around 1193 CE by Qutb ud-Din Aibak, founder of the Delhi Sultanate.",
+      "Has five distinct storeys — the first three are red sandstone, the top two are marble and sandstone.",
+      "UNESCO World Heritage Site since 1993."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5245,77.1855",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qutb_Minar"
+  },
+  "tajmahal": {
+    "display_name": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "lat": 27.1751,
+    "lon": 78.0421,
+    "opening_hours": "Sunrise to Sunset (Closed on Fridays)",
+    "ticket_price": "₹250 (Indians) | ₹1,300 (Foreigners) + ₹200 extra for mausoleum",
+    "category": "Mughal Mausoleum",
+    "history": "The Taj Mahal is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan, to house the tomb of his beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare (42-acre) complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall..",
+    "fun_facts": [
+      "Built by Shah Jahan between 1631 and 1653 in memory of his wife Mumtaz Mahal.",
+      "Took 22 years and over 20,000 artisans from across Asia to complete.",
+      "The four minarets lean slightly outward so they fall away from the tomb in an earthquake.",
+      "One of the Seven Wonders of the World and a UNESCO World Heritage Site since 1983."
+    ],
+    "google_maps": "https://maps.google.com/?q=27.1751,78.0421",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+  },
+  "tanjavur temple": {
+    "display_name": "Brihadeeswara Temple (Thanjavur)",
+    "location": "Thanjavur, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 10.7828,
+    "lon": 79.1317,
+    "opening_hours": "6:00 AM – 12:30 PM and 4:00 PM – 8:30 PM",
+    "ticket_price": "Free (active place of worship)",
+    "category": "Hindu Temple (Dravidian Architecture)",
+    "history": "Brihadisvara Temple, called Rajarajesvaram by its builder, and known locally as Thanjai Periya Kovil and Peruvudaiyar Kovil, is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. It is also called Dakshina Meru. Built by Chola emperor Rajaraja I between 1003 and 1010 CE, the temple is a part of the UNESCO World Heritage Site known as the \"Great Living Chola Temples\", along with the Chola-era Gangaikonda Cholapuram temple and Airavatesvara temple, which are about 70 kilometres (43 mi) and 40 kilometres (25 mi) to its northeast respectively..",
+    "fun_facts": [
+      "Built around 1010 CE by Raja Raja Chola I — over 1,000 years old and still an active temple.",
+      "The vimana (tower) is 66 metres tall; its dome casts no shadow on the ground at noon.",
+      "Built entirely of interlocking granite blocks without any mortar.",
+      "Part of the 'Great Living Chola Temples' UNESCO World Heritage Site since 1987."
+    ],
+    "google_maps": "https://maps.google.com/?q=10.7828,79.1317",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Brihadeeswarar_Temple"
+  },
+  "victoria memorial": {
+    "display_name": "Victoria Memorial",
+    "location": "Kolkata, West Bengal",
+    "state": "West Bengal",
+    "lat": 22.5448,
+    "lon": 88.3426,
+    "opening_hours": "Museum: 10:00 AM – 6:00 PM (Closed Mon) | Gardens: 5:30 AM – 6:15 PM",
+    "ticket_price": "₹30 (Indians) | ₹500 (Foreigners)",
+    "category": "Memorial & Museum",
+    "history": "The Victoria Memorial is a large marble monument in the Maidan in Central Kolkata (Calcutta), having its entrance on the Queen's Way. It was built between 1906 and 1921 by the British Raj. It is dedicated to the memory of Queen Victoria, the Empress of India from 1876 to 1901.\nThe work of construction was entrusted to Martin & Co. of Calcutta founded by Rajendranath Mukherjee and Thomas Acquin Martin, and work on the superstructure began in 1910.\nIt is the largest monument to a monarch anywhere in the world.",
+    "fun_facts": [
+      "Built between 1906 and 1921 using white Makrana marble — the same quarry as the Taj Mahal.",
+      "Designed by Sir William Emerson in a blend of British and Mughal architectural styles.",
+      "Now a museum housing over 28,000 artifacts related to British colonial history.",
+      "The rotating bronze Angel of Victory atop the dome weighs approximately 3 tonnes."
+    ],
+    "google_maps": "https://maps.google.com/?q=22.5448,88.3426",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Victoria_Memorial%2C_Kolkata"
+  },
+  "Raigad Fort": {
+    "display_name": "Raigad Fort",
+    "location": "Mahad, Raigad District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 18.2346,
+    "lon": 73.441,
+    "opening_hours": "8:00 AM – 5:30 PM",
+    "ticket_price": "₹20 (Indians) | ₹250 (Foreigners)",
+    "category": "Hill Fort",
+    "history": "Raigad, located in the Raigad district of Maharashtra, India, is a hill fort situated near the town of Mahad. It is one of the strongest fortresses on the Deccan Plateau and was historically referred to as Rairee or Rairy fort..",
+    "fun_facts": [
+      "Chhatrapati Shivaji Maharaj was crowned here in 1674, establishing the Maratha Empire.",
+      "Stands 820 metres above sea level; accessible by a ropeway or a 1,400-step climb.",
+      "Shivaji's samadhi (memorial) and the Jagdishwar temple are located within the fort.",
+      "Once called 'Rairi', it was renamed Raigad (King's Fort) after Shivaji captured it in 1656."
+    ],
+    "google_maps": "https://maps.google.com/?q=18.2346,73.441",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raigad_Fort"
+  },
+  "Sinhagad Fort": {
+    "display_name": "Sinhagad Fort",
+    "location": "Pune District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 18.3659,
+    "lon": 73.7554,
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "ticket_price": "₹25 (Indians)",
+    "category": "Hill Fort",
+    "history": "Sinhagad is an ancient hill fortress located at around 28 kilometres southwest of the city of Pune, India. Previously known as Kondhana, the fort has been the site of many battles, most notably the Battle of Sinhagad in 1670..",
+    "fun_facts": [
+      "Site of the famous 1670 Battle of Sinhagad where Tanaji Malusare died recapturing it for Shivaji.",
+      "Shivaji reportedly said 'Gad ala pan Sinha gela' (the fort was won but the lion was lost) upon Tanaji's death.",
+      "Stands 1,312 metres above sea level in the Sahyadri mountain range.",
+      "Originally called Kondana; renamed Sinhagad (Lion's Fort) after the heroic battle."
+    ],
+    "google_maps": "https://maps.google.com/?q=18.3659,73.7554",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sinhagad"
+  },
+  "Pratapgad Fort": {
+    "display_name": "Pratapgad Fort",
+    "location": "Satara District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 17.9376,
+    "lon": 73.5793,
+    "opening_hours": "9:00 AM – 5:00 PM",
+    "ticket_price": "₹20 (Indians)",
+    "category": "Hill Fort",
+    "history": "Pratapgad is a mountain fort located in Satara district, in the Western Indian state of Maharashtra. The fort is situated 24 kilometres from the Mahabaleshwar hill station. The fort is now a tourist destination..",
+    "fun_facts": [
+      "Site of the 1659 Battle of Pratapgad where Shivaji killed Afzal Khan of the Bijapur Sultanate.",
+      "Built in 1656 by Shivaji Maharaj under the supervision of his general Moropant Trimbak Pingle.",
+      "Houses the temple of Bhavani Mata, the tutelary deity of the Maratha Empire.",
+      "Stands at 1,080 metres; the fort has upper and lower sections connected by stone pathways."
+    ],
+    "google_maps": "https://maps.google.com/?q=17.9376,73.5793",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pratapgad"
+  },
+  "Shivneri Fort": {
+    "display_name": "Shivneri Fort",
+    "location": "Junnar, Pune District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 19.2027,
+    "lon": 73.8728,
+    "opening_hours": "8:00 AM – 6:00 PM",
+    "ticket_price": "Free",
+    "category": "Hill Fort",
+    "history": "Shivneri Fort is an ancient military fortification located near Junnar in Pune district in Maharashtra, India. It is the birthplace of Chatrapati Shivaji Maharaj, the founder of Maratha Kingdom..",
+    "fun_facts": [
+      "Birthplace of Chhatrapati Shivaji Maharaj, born here on 19 February 1630.",
+      "Contains a statue of Shivaji as an infant with his mother Jijabai inside the fort.",
+      "Features a temple dedicated to the goddess Shivai, after whom Shivaji is named.",
+      "Houses ancient Buddhist cave temples dating back to the 1st–2nd century CE."
+    ],
+    "google_maps": "https://maps.google.com/?q=19.2027,73.8728",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shivneri"
+  },
+  "Lohagad Fort": {
+    "display_name": "Lohagad Fort",
+    "location": "Maval, Pune District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 18.7456,
+    "lon": 73.4757,
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "ticket_price": "Free",
+    "category": "Hill Fort",
+    "history": "Lohagad is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala and 52 km (32 mi) northwest of Pune, Lohagad rises to an elevation of 1,033 m (3,389 ft) above sea level. The fort is connected to the neighboring Visapur fort by a small range. The fort was under the Lohtamia empire for the majority of the time, with a short period of 5 years under the Mughal Empire..",
+    "fun_facts": [
+      "Stands at 1,033 metres above sea level in the Sahyadri range near Lonavala.",
+      "Shivaji used this fort to store war treasury after the Surat raids of 1664 and 1670.",
+      "The 'Vinchukata' (Scorpion's Tail) is a distinctive winding wall leading to the main gate.",
+      "One of the earliest forts in Maharashtra, with records dating back to the 1st century BCE."
+    ],
+    "google_maps": "https://maps.google.com/?q=18.7456,73.4757",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lohagad"
+  },
+  "Panhala Fort": {
+    "display_name": "Panhala Fort",
+    "location": "Kolhapur District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 16.813,
+    "lon": 74.112,
+    "opening_hours": "8:00 AM – 6:00 PM",
+    "ticket_price": "Free",
+    "category": "Hill Fort",
+    "history": "Panhala is a city and a Hill station Municipal Council 18 km northwest of Kolhapur, in Kolhapur district in the Indian state of Maharashtra. Panhala is the smallest city in Maharashtra and being a Municipal Council the city is developing rapidly. The city sprawls in the Panhala fort commands a panoramic view of the valley below. The main historical attraction here is the Panhala fort.",
+    "fun_facts": [
+      "The largest fort in the Deccan; stretches over 7 km with a circumference of 14 km.",
+      "Shivaji escaped from Mughal siege here in 1660 in one of history's most daring escapes.",
+      "Built in the 12th century by Raja Bhoja II; served as Shivaji's residence for 7 years.",
+      "Three large grain storehouses within the fort could hold enough supplies for years of siege."
+    ],
+    "google_maps": "https://maps.google.com/?q=16.813,74.112",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Panhala"
+  },
+  "Sindhudurg Fort": {
+    "display_name": "Sindhudurg Fort",
+    "location": "Malvan, Sindhudurg District, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 16.0333,
+    "lon": 73.5083,
+    "opening_hours": "8:00 AM – 6:00 PM",
+    "ticket_price": "₹10 (Indians)",
+    "category": "Sea Fort",
+    "history": "Sindhudurg Fort is a historical sea fort located in Arabian Sea near the Konkan region of Maharashtra in Western India. The fort, commissioned by Chhatrapati Shivaji, was constructed between 1664 and 1667. The fort lies off the shore of Malvan taluka of the Sindhudurg District in the Konkan region of Maharashtra, 450 kilometres (280 mi) south of Mumbai. It is a protected monument under the Archaeological Survey of India..",
+    "fun_facts": [
+      "Built by Shivaji Maharaj between 1664 and 1667 on a rocky island in the Arabian Sea.",
+      "Construction used lead and iron at the base to fix the foundation to the sea rocks.",
+      "Houses a rare temple with impressions of Shivaji's hand, foot, and chest cast in lime.",
+      "Took three years and employed 4,000 workers; it was India's first purpose-built naval fort."
+    ],
+    "google_maps": "https://maps.google.com/?q=16.0333,73.5083",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sindhudurg"
+  },
+  "Meenakshi Temple": {
+    "display_name": "Meenakshi Amman Temple",
+    "location": "Madurai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 9.9195,
+    "lon": 78.1193,
+    "opening_hours": "5:00 AM – 12:30 PM and 4:00 PM – 10:00 PM",
+    "ticket_price": "Free (camera fee applies)",
+    "category": "Hindu Temple (Dravidian Architecture)",
+    "history": "Meenakshi Temple, also known as Meenakshi Sundareswarar Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in Madurai, Tamil Nadu, India. It is dedicated to Meenakshi, a form of Parvati, and her consort Sundareswarar (Shiva). The temple is theologically significant as it represents a confluence of various denominations of Hinduism such as Shaivism, Shaktism, and Vaishnavism..",
+    "fun_facts": [
+      "Has 14 gopurams (gateway towers); the tallest is 52 metres and covered with 33,000 sculptures.",
+      "Dedicated to Goddess Meenakshi (a form of Parvati) and her consort Sundareswarar (Shiva).",
+      "Attracts 15,000–20,000 visitors daily; up to 25,000 on Fridays.",
+      "The temple complex covers 6 hectares and is considered the cultural heart of Madurai."
+    ],
+    "google_maps": "https://maps.google.com/?q=9.9195,78.1193",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Meenakshi_Amman_Temple"
+  },
+  "Shore Temple": {
+    "display_name": "Shore Temple",
+    "location": "Mahabalipuram, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 12.6175,
+    "lon": 80.1993,
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Hindu Temple",
+    "history": "The Shore Temple is a complex of temples and shrines that overlooks the shore of the Bay of Bengal. It is located in Mahabalipuram, about 60 kilometres (37 mi) south of Chennai in Tamil Nadu, India..",
+    "fun_facts": [
+      "One of the oldest structural stone temples of South India, built in the 8th century CE by the Pallava dynasty.",
+      "Faces east so that sunlight strikes the deity's face at dawn — a deliberate architectural feat.",
+      "UNESCO World Heritage Site since 1984 as part of 'Group of Monuments at Mahabalipuram'.",
+      "Local legend says six more temples lie submerged beneath the sea — some ruins were revealed after the 2004 tsunami."
+    ],
+    "google_maps": "https://maps.google.com/?q=12.6175,80.1993",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shore_Temple"
+  },
+  "Ramanathaswamy Temple": {
+    "display_name": "Ramanathaswamy Temple",
+    "location": "Rameswaram, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 9.2885,
+    "lon": 79.3174,
+    "opening_hours": "5:00 AM – 1:00 PM and 3:00 PM – 9:00 PM",
+    "ticket_price": "Free",
+    "category": "Hindu Temple (Pilgrimage Site)",
+    "history": "Ramanathaswamy Temple is a Hindu temple dedicated to the Hindu god Shiva located on Rameswaram island in the state of Tamil Nadu, India. It is one of the twelve Jyotirlinga temples. It is one of the 276 Paadal Petra Sthalams, the sacred sites glorified by the Nayanars, Appar, Sundarar, and Sambandar, with their songs. According to tradition, the lingam of the Ramanathaswamy Temple was established and worshipped by Rama before he crossed the bridge called Rama Setu to the island kingdom of Lanka, identified with Sri Lanka.",
+    "fun_facts": [
+      "Has the longest corridor of any Hindu temple in the world — the third corridor is 1,212 metres long.",
+      "One of the Char Dham pilgrimage sites sacred to Hindus, along with Badrinath, Dwarka, and Puri.",
+      "Houses 22 sacred wells (theerthams); pilgrims traditionally bathe in all of them.",
+      "Legend says Rama built a Shiva lingam here before crossing to Lanka to rescue Sita."
+    ],
+    "google_maps": "https://maps.google.com/?q=9.2885,79.3174",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ramanathaswamy_Temple"
+  },
+  "Kapaleeshwarar Temple": {
+    "display_name": "Kapaleeshwarar Temple",
+    "location": "Mylapore, Chennai, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 13.0338,
+    "lon": 80.2691,
+    "opening_hours": "5:00 AM – 12:00 PM and 4:00 PM – 9:30 PM",
+    "ticket_price": "Free",
+    "category": "Hindu Temple (Dravidian Architecture)",
+    "history": "The Kapaleeshwarar Temple is a Hindu temple dedicated to the god Shiva. It is located in Mylapore, Chennai in the Indian state of Tamil Nadu. The temple was built around the 7th century A.D. and is an example of South Indian Architecture..",
+    "fun_facts": [
+      "Dedicated to Shiva as Kapaleeshwarar and Parvati as Karpagambal.",
+      "The present temple was rebuilt in the 16th century after the original was destroyed by the Portuguese.",
+      "Features a stunning 37-metre tall gopuram (gateway tower) with colourful stucco sculptures.",
+      "The annual Arubathimoovar festival drawing 1.5 lakh devotees is one of Chennai's biggest events."
+    ],
+    "google_maps": "https://maps.google.com/?q=13.0338,80.2691",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kapaleeshwarar_Temple"
+  },
+  "Ranganathaswamy Temple": {
+    "display_name": "Ranganathaswamy Temple (Srirangam)",
+    "location": "Srirangam, Tiruchirappalli, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 10.8619,
+    "lon": 78.6892,
+    "opening_hours": "6:00 AM – 1:00 PM and 3:15 PM – 9:00 PM",
+    "ticket_price": "Free",
+    "category": "Hindu Temple (Vaishnavite)",
+    "history": "The Ranganathaswamy Temple is a Hindu temple dedicated to Ranganathar and his consort Ranganayaki. The temple is located in Srirangam, Tiruchirapalli, Tamil Nadu, India. Constructed in the Tamil architectural style, the temple is glorified by the Tamil poet-saints called the Alvars in their canon, the Naalayira Divya Prabhandam, and has the unique distinction of being the foremost among the 108 Divya Desams dedicated to the god Vishnu. The Srirangam temple stands as the largest religious complex in the world in active worship with a continuous historical presence as a Hindu temple.",
+    "fun_facts": [
+      "The largest functioning Hindu temple in the world, covering 156 acres with 21 gopurams.",
+      "Dedicated to Ranganatha, a reclining form of Vishnu — one of the 108 Divya Desams.",
+      "The outermost wall of the complex is nearly 4 km long, enclosing a self-contained township.",
+      "The Rajagopuram (main tower) stands 73 metres tall and took over 400 years to complete."
+    ],
+    "google_maps": "https://maps.google.com/?q=10.8619,78.6892",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple%2C_Srirangam"
+  },
+  "Nataraja Temple": {
+    "display_name": "Thillai Nataraja Temple",
+    "location": "Chidambaram, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "lat": 11.3994,
+    "lon": 79.6934,
+    "opening_hours": "6:00 AM – 12:00 PM and 5:00 PM – 10:00 PM",
+    "ticket_price": "Free",
+    "category": "Hindu Temple (Shaivite)",
+    "history": "Thillai Nataraja Temple, also referred as the Chidambaram Nataraja Temple, is a Hindu temple dedicated to Nataraja, the form of Shiva as the lord of dance. This temple is located in Chidambaram, Tamil Nadu, India. This temple has ancient roots and a Shiva shrine existed at the site when the town was known as Thillai. Chidambaram, the name of the city literally means \"stage of consciousness\".",
+    "fun_facts": [
+      "One of the Pancha Bhuta Stalas (five elemental temples); represents the element of space (akasha).",
+      "The dancing form of Shiva (Nataraja) here inspired the famous bronze idol now iconic worldwide.",
+      "The temple roof is covered with 21,600 gold tiles representing the number of breaths per day.",
+      "Over 2,000 years old; its current structure was built primarily by the Chola dynasty."
+    ],
+    "google_maps": "https://maps.google.com/?q=11.3994,79.6934",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Thillai_Nataraja_Temple%2C_Chidambaram"
+  },
+  "Agra Fort": {
+    "display_name": "Agra Fort",
+    "location": "Agra, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "lat": 27.1795,
+    "lon": 78.0211,
+    "opening_hours": "6:00 AM – 6:00 PM",
+    "ticket_price": "₹40 (Indians) | ₹550 (Foreigners)",
+    "category": "Mughal Fort",
+    "history": "A UNESCO World Heritage Site; served as the main residence of the Mughal emperors until 1638. Shah Jahan was imprisoned here by his son Aurangzeb in his final years, with a view of the Taj Mahal. The fort contains over 500 buildings including palaces, mosques, and audience halls. Built primarily by Emperor Akbar starting in 1565 using red sandstone brought from Rajputana.",
+    "fun_facts": [
+      "A UNESCO World Heritage Site; served as the main residence of the Mughal emperors until 1638.",
+      "Shah Jahan was imprisoned here by his son Aurangzeb in his final years, with a view of the Taj Mahal.",
+      "The fort contains over 500 buildings including palaces, mosques, and audience halls.",
+      "Built primarily by Emperor Akbar starting in 1565 using red sandstone brought from Rajputana."
+    ],
+    "google_maps": "https://maps.google.com/?q=27.1795,78.0211",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Agra_Fort"
+  },
+  "Red Fort Delhi": {
+    "display_name": "Red Fort",
+    "location": "Chandni Chowk, New Delhi",
+    "state": "Delhi",
+    "lat": 28.6562,
+    "lon": 77.241,
+    "opening_hours": "9:30 AM – 4:30 PM (Closed on Mondays)",
+    "ticket_price": "₹35 (Indians) | ₹500 (Foreigners)",
+    "category": "Mughal Fort",
+    "history": "Built by Shah Jahan between 1638 and 1648; served as the Mughal capital for 200 years. India's Prime Minister hoists the national flag here every Independence Day (15 August). The fort was designed to be octagonal — its walls extend 2.41 km and stand up to 33 metres tall. UNESCO World Heritage Site since 2007.",
+    "fun_facts": [
+      "Built by Shah Jahan between 1638 and 1648; served as the Mughal capital for 200 years.",
+      "India's Prime Minister hoists the national flag here every Independence Day (15 August).",
+      "The fort was designed to be octagonal — its walls extend 2.41 km and stand up to 33 metres tall.",
+      "UNESCO World Heritage Site since 2007."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.6562,77.241",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Red_Fort"
+  },
+  "Jama Masjid Delhi": {
+    "display_name": "Jama Masjid",
+    "location": "Chandni Chowk, New Delhi",
+    "state": "Delhi",
+    "lat": 28.6507,
+    "lon": 77.2334,
+    "opening_hours": "7:00 AM – 12:00 PM and 1:30 PM – 6:30 PM",
+    "ticket_price": "Free (camera fee: ₹300)",
+    "category": "Mughal Mosque",
+    "history": "The largest mosque in India; can accommodate 25,000 worshippers at one time. Built by Shah Jahan between 1644 and 1656 using red sandstone and white marble. Has three gateways, two minarets, and a courtyard measuring 100×90 metres. Houses relics of the Prophet Muhammad including a hair, a sandal, and his footprint in marble.",
+    "fun_facts": [
+      "The largest mosque in India; can accommodate 25,000 worshippers at one time.",
+      "Built by Shah Jahan between 1644 and 1656 using red sandstone and white marble.",
+      "Has three gateways, two minarets, and a courtyard measuring 100×90 metres.",
+      "Houses relics of the Prophet Muhammad including a hair, a sandal, and his footprint in marble."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.6507,77.2334",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jama_Masjid%2C_Delhi"
+  },
+  "Itmad-ud-Daulah": {
+    "display_name": "Itmad-ud-Daulah (Baby Taj)",
+    "location": "Agra, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "lat": 27.1922,
+    "lon": 78.0386,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹30 (Indians) | ₹310 (Foreigners)",
+    "category": "Mughal Tomb",
+    "history": "Often called the 'Baby Taj' — widely considered a forerunner to the Taj Mahal. First Mughal structure built entirely of white marble with pietra dura inlay work. Built by Nur Jahan for her father Mirza Ghiyas Beg, who served as treasurer to Emperor Jahangir. The intricate semi-precious stone mosaic work (parchin kari) here was the prototype used in the Taj Mahal.",
+    "fun_facts": [
+      "Often called the 'Baby Taj' — widely considered a forerunner to the Taj Mahal.",
+      "First Mughal structure built entirely of white marble with pietra dura inlay work.",
+      "Built by Nur Jahan for her father Mirza Ghiyas Beg, who served as treasurer to Emperor Jahangir.",
+      "The intricate semi-precious stone mosaic work (parchin kari) here was the prototype used in the Taj Mahal."
+    ],
+    "google_maps": "https://maps.google.com/?q=27.1922,78.0386",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Itmad-ud-Daulah"
+  },
+  "Bibi Ka Maqbara": {
+    "display_name": "Bibi Ka Maqbara",
+    "location": "Aurangabad, Maharashtra",
+    "state": "Maharashtra",
+    "lat": 19.9038,
+    "lon": 75.3174,
+    "opening_hours": "8:00 AM – 8:00 PM",
+    "ticket_price": "₹25 (Indians) | ₹300 (Foreigners)",
+    "category": "Mughal Tomb",
+    "history": "Built in 1660 by Prince Azam Shah for his mother Dilras Banu Begum, wife of Aurangzeb. So closely resembles the Taj Mahal that it is nicknamed the 'Taj of the Deccan.' Built on a limited budget; only the lower portion uses marble — the upper part is lime plaster. Stands in a large charbagh (four-part garden) similar to the Taj Mahal's layout.",
+    "fun_facts": [
+      "Built in 1660 by Prince Azam Shah for his mother Dilras Banu Begum, wife of Aurangzeb.",
+      "So closely resembles the Taj Mahal that it is nicknamed the 'Taj of the Deccan.'",
+      "Built on a limited budget; only the lower portion uses marble — the upper part is lime plaster.",
+      "Stands in a large charbagh (four-part garden) similar to the Taj Mahal's layout."
+    ],
+    "google_maps": "https://maps.google.com/?q=19.9038,75.3174",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bibi_Ka_Maqbara"
+  },
+  "Safdarjung Tomb": {
+    "display_name": "Safdarjung's Tomb",
+    "location": "New Delhi",
+    "state": "Delhi",
+    "lat": 28.5912,
+    "lon": 77.2037,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹25 (Indians) | ₹310 (Foreigners)",
+    "category": "Mughal Tomb",
+    "history": "Built in 1754 for Safdarjung, the last Prime Minister (wazir) of the Mughal Empire. Considered the last great Mughal garden tomb; its construction marked the end of the Mughal architectural tradition. Built using marble and red sandstone salvaged from the tomb of Abdul Rahim Khan-i-Khana. The main chamber houses Safdarjung's grave alongside those of his family members.",
+    "fun_facts": [
+      "Built in 1754 for Safdarjung, the last Prime Minister (wazir) of the Mughal Empire.",
+      "Considered the last great Mughal garden tomb; its construction marked the end of the Mughal architectural tradition.",
+      "Built using marble and red sandstone salvaged from the tomb of Abdul Rahim Khan-i-Khana.",
+      "The main chamber houses Safdarjung's grave alongside those of his family members."
+    ],
+    "google_maps": "https://maps.google.com/?q=28.5912,77.2037",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Safdarjung's_Tomb"
+  },
+  "Akbar Tomb Sikandra": {
+    "display_name": "Akbar's Tomb, Sikandra",
+    "location": "Sikandra, Agra, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "lat": 27.2032,
+    "lon": 77.9631,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "₹30 (Indians) | ₹310 (Foreigners)",
+    "category": "Mughal Tomb",
+    "history": "Emperor Akbar began designing his own tomb during his lifetime — a unique Mughal tradition. Completed by his son Jahangir in 1613, who modified the original design significantly. The tomb is five storeys high; the top storey is open-air and made of white marble. The main gateway (Buland Darwaza) is decorated with white marble inlay and mosaics.",
+    "fun_facts": [
+      "Emperor Akbar began designing his own tomb during his lifetime — a unique Mughal tradition.",
+      "Completed by his son Jahangir in 1613, who modified the original design significantly.",
+      "The tomb is five storeys high; the top storey is open-air and made of white marble.",
+      "The main gateway (Buland Darwaza) is decorated with white marble inlay and mosaics."
+    ],
+    "google_maps": "https://maps.google.com/?q=27.2032,77.9631",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Tomb_of_Akbar_the_Great"
+  },
+  "Virupaksha Temple Hampi": {
+    "display_name": "Virupaksha Temple, Hampi",
+    "location": "Hampi, Karnataka",
+    "state": "Karnataka",
+    "lat": 15.335,
+    "lon": 76.46,
+    "opening_hours": "6:00 AM – 12:30 PM and 5:00 PM – 9:00 PM",
+    "ticket_price": "Free",
+    "category": "Hindu Temple (Vijayanagara Architecture)",
+    "history": "One of the oldest continuously functioning temples in India, active since at least the 7th century CE. The main gopuram (tower) stands 50 metres high with nine tiers. UNESCO World Heritage Site as part of the 'Group of Monuments at Hampi' since 1986. Dedicated to Shiva as Virupaksha, consort of the local goddess Pampa after whom the Tungabhadra River is named.",
+    "fun_facts": [
+      "One of the oldest continuously functioning temples in India, active since at least the 7th century CE.",
+      "The main gopuram (tower) stands 50 metres high with nine tiers.",
+      "UNESCO World Heritage Site as part of the 'Group of Monuments at Hampi' since 1986.",
+      "Dedicated to Shiva as Virupaksha, consort of the local goddess Pampa after whom the Tungabhadra River is named."
+    ],
+    "google_maps": "https://maps.google.com/?q=15.335,76.46",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Virupaksha_Temple%2C_Hampi"
+  },
+  "Vittala Temple Hampi": {
+    "display_name": "Vittala Temple, Hampi",
+    "location": "Hampi, Karnataka",
+    "state": "Karnataka",
+    "lat": 15.3388,
+    "lon": 76.4745,
+    "opening_hours": "8:30 AM – 5:30 PM",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Hindu Temple (Vijayanagara Architecture)",
+    "history": "Famous for its 'musical pillars' that produce different musical notes when tapped. The stone chariot in the courtyard — with wheels that once actually rotated — is one of India's most iconic images. Built in the 15th–16th century during the Vijayanagara Empire's peak. UNESCO World Heritage Site as part of the 'Group of Monuments at Hampi' since 1986.",
+    "fun_facts": [
+      "Famous for its 'musical pillars' that produce different musical notes when tapped.",
+      "The stone chariot in the courtyard — with wheels that once actually rotated — is one of India's most iconic images.",
+      "Built in the 15th–16th century during the Vijayanagara Empire's peak.",
+      "UNESCO World Heritage Site as part of the 'Group of Monuments at Hampi' since 1986."
+    ],
+    "google_maps": "https://maps.google.com/?q=15.3388,76.4745",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vittala_Temple%2C_Hampi"
+  },
+  "Lotus Mahal Hampi": {
+    "display_name": "Lotus Mahal, Hampi",
+    "location": "Hampi, Karnataka",
+    "state": "Karnataka",
+    "lat": 15.3243,
+    "lon": 76.4616,
+    "opening_hours": "8:30 AM – 5:30 PM",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners) — part of Royal Enclosure",
+    "category": "Vijayanagara Palace Pavilion",
+    "history": "A two-storeyed pavilion combining Hindu and Islamic architectural styles. Named for its arches that resemble lotus petals. Believed to have been a relaxation space for queens of the Vijayanagara Empire. UNESCO World Heritage Site as part of the 'Group of Monuments at Hampi' since 1986.",
+    "fun_facts": [
+      "A two-storeyed pavilion combining Hindu and Islamic architectural styles.",
+      "Named for its arches that resemble lotus petals.",
+      "Believed to have been a relaxation space for queens of the Vijayanagara Empire.",
+      "UNESCO World Heritage Site as part of the 'Group of Monuments at Hampi' since 1986."
+    ],
+    "google_maps": "https://maps.google.com/?q=15.3243,76.4616",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lotus_Mahal"
+  },
+  "Rani ki Vav": {
+    "display_name": "Rani ki Vav",
+    "location": "Patan, Gujarat",
+    "state": "Gujarat",
+    "lat": 23.8588,
+    "lon": 72.1013,
+    "opening_hours": "8:00 AM – 6:00 PM",
+    "ticket_price": "₹40 (Indians) | ₹600 (Foreigners)",
+    "category": "Stepwell",
+    "history": "UNESCO World Heritage Site since 2014; featured on the Indian ₹100 note. Built in the 11th century by Queen Udayamati in memory of her husband King Bhimdev I. Has seven levels of stairs and over 500 principal sculptures and 1,000 minor ones. Was submerged in silt for centuries; excavated and restored by the Archaeological Survey of India in the 1980s.",
+    "fun_facts": [
+      "UNESCO World Heritage Site since 2014; featured on the Indian ₹100 note.",
+      "Built in the 11th century by Queen Udayamati in memory of her husband King Bhimdev I.",
+      "Has seven levels of stairs and over 500 principal sculptures and 1,000 minor ones.",
+      "Was submerged in silt for centuries; excavated and restored by the Archaeological Survey of India in the 1980s."
+    ],
+    "google_maps": "https://maps.google.com/?q=23.8588,72.1013",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rani_ki_vav"
+  },
+  "Chand Baori": {
+    "display_name": "Chand Baori",
+    "location": "Abhaneri, Rajasthan",
+    "state": "Rajasthan",
+    "lat": 27.0082,
+    "lon": 76.605,
+    "opening_hours": "Sunrise to Sunset",
+    "ticket_price": "Free",
+    "category": "Stepwell",
+    "history": "One of the largest and deepest stepwells in the world — 13 storeys deep with 3,500 steps. Built in the 9th century CE by King Chanda of the Nikumbha dynasty. The geometric precision of its steps creates stunning mirror-image patterns. Featured in films like 'The Dark Knight Rises' and 'The Fall'.",
+    "fun_facts": [
+      "One of the largest and deepest stepwells in the world — 13 storeys deep with 3,500 steps.",
+      "Built in the 9th century CE by King Chanda of the Nikumbha dynasty.",
+      "The geometric precision of its steps creates stunning mirror-image patterns.",
+      "Featured in films like 'The Dark Knight Rises' and 'The Fall'."
+    ],
+    "google_maps": "https://maps.google.com/?q=27.0082,76.605",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Chand_Baori"
+  },
+  "Adalaj Stepwell": {
+    "display_name": "Adalaj Stepwell",
+    "location": "Adalaj, Gandhinagar District, Gujarat",
+    "state": "Gujarat",
+    "lat": 23.1674,
+    "lon": 72.58,
+    "opening_hours": "8:00 AM – 6:00 PM",
+    "ticket_price": "Free",
+    "category": "Stepwell",
+    "history": "Built in 1499 by Queen Rudabai in memory of her husband, Veer Singh, a Vaghela chieftain. Goes five storeys underground; the design keeps the interior cool even in summer. Combines Hindu and Islamic decorative motifs — a rare example of architectural syncretism. Has three entrance staircases that merge at the first floor into a single large platform.",
+    "fun_facts": [
+      "Built in 1499 by Queen Rudabai in memory of her husband, Veer Singh, a Vaghela chieftain.",
+      "Goes five storeys underground; the design keeps the interior cool even in summer.",
+      "Combines Hindu and Islamic decorative motifs — a rare example of architectural syncretism.",
+      "Has three entrance staircases that merge at the first floor into a single large platform."
+    ],
+    "google_maps": "https://maps.google.com/?q=23.1674,72.58",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Adalaj_stepwell"
+  }
+}

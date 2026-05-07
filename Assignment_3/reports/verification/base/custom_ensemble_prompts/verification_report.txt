@@ -1,0 +1,8 @@
+==================================================
+   VERIFICATION REPORT: BASE + CUSTOM_ENSEMBLE
+==================================================
+
+ROC AUC Score:            0.9845
+Equal Error Rate (EER):   6.37%
+TAR @ 1.0% FAR:           72.67%
+TAR @ 5.0% FAR:           91.65%

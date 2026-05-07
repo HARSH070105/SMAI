@@ -1,0 +1,8 @@
+==================================================
+   VERIFICATION REPORT: BASE + BASELINE
+==================================================
+
+ROC AUC Score:            0.9774
+Equal Error Rate (EER):   7.88%
+TAR @ 1.0% FAR:           69.01%
+TAR @ 5.0% FAR:           87.78%

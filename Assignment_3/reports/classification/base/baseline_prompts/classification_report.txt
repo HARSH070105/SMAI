@@ -1,0 +1,64 @@
+==================================================
+   BASE + BASELINE PROMPTS
+==================================================
+
+Overall Top-1 Accuracy: 65.15%
+
+Detailed Report:
+                         precision    recall  f1-score   support
+
+        Adalaj Stepwell       0.63      0.80      0.71        15
+              Agra Fort       0.50      0.53      0.52        15
+           Ajanta Caves       1.00      0.74      0.85        31
+    Akbar Tomb Sikandra       0.19      0.40      0.26        15
+        Bibi Ka Maqbara       0.75      0.40      0.52        15
+            Chand Baori       0.87      0.87      0.87        15
+       Charar-E- Sharif       0.88      0.82      0.85        34
+        Chhota_Imambara       0.65      0.67      0.66        30
+           Ellora Caves       0.85      0.97      0.90        34
+         Fatehpur Sikri       0.73      0.86      0.79        42
+       Gateway of India       0.88      1.00      0.94        30
+             Hawa mahal       0.97      0.86      0.92        81
+         Humayun_s Tomb       0.71      0.57      0.63        30
+             India_gate       0.98      0.98      0.98        45
+        Itmad-ud-Daulah       0.19      0.20      0.19        15
+      Jama Masjid Delhi       0.73      0.53      0.62        15
+  Kapaleeshwarar Temple       0.20      0.27      0.23        15
+              Khajuraho       0.76      0.89      0.82        44
+           Lohagad Fort       0.27      0.40      0.32        15
+      Lotus Mahal Hampi       0.88      0.47      0.61        15
+       Meenakshi Temple       0.36      0.67      0.47        15
+        Nataraja Temple       0.20      0.07      0.10        15
+           Panhala Fort       0.16      0.20      0.18        15
+         Pratapgad Fort       0.70      0.47      0.56        15
+            Raigad Fort       1.00      0.13      0.24        15
+  Ramanathaswamy Temple       0.25      0.13      0.17        15
+ Ranganathaswamy Temple       0.25      0.20      0.22        15
+            Rani ki Vav       0.44      0.53      0.48        15
+         Red Fort Delhi       0.45      0.33      0.38        15
+        Safdarjung Tomb       0.16      0.67      0.26        15
+          Shivneri Fort       0.67      0.13      0.22        15
+           Shore Temple       0.67      0.67      0.67        15
+        Sindhudurg Fort       0.57      0.80      0.67        15
+          Sinhagad Fort       0.40      0.40      0.40        15
+      Sun Temple Konark       0.79      0.95      0.86        40
+Virupaksha Temple Hampi       0.29      0.60      0.39        15
+   Vittala Temple Hampi       0.50      0.13      0.21        15
+           alai_darwaza       0.17      0.31      0.22        36
+             alai_minar       0.41      0.71      0.52        35
+  basilica_of_bom_jesus       1.00      1.00      1.00        30
+              charminar       0.88      0.75      0.81        40
+          golden temple       0.92      1.00      0.96        65
+            iron_pillar       0.67      0.14      0.23       100
+     jamali_kamali_tomb       0.38      0.17      0.24        46
+           lotus_temple       0.97      1.00      0.98        30
+          mysore_palace       0.93      0.86      0.89        29
+            qutub_minar       0.65      0.91      0.76        70
+               tajmahal       0.93      0.85      0.89        62
+        tanjavur temple       0.64      0.36      0.46        45
+      victoria memorial       0.97      1.00      0.98        30
+
+               accuracy                           0.65      1449
+              macro avg       0.62      0.59      0.57      1449
+           weighted avg       0.69      0.65      0.64      1449
+

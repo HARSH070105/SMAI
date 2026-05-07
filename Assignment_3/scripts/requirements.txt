@@ -1,0 +1,18 @@
+# Web Framework
+streamlit
+
+# Image Processing
+Pillow
+
+# Deep Learning (Core)
+torch
+torchvision
+
+# CLIP and Model Loading
+transformers
+peft
+ftfy
+regex
+
+# Data Handling
+pathlib
